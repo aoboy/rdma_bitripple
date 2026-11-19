@@ -1,0 +1,3 @@
+[submodule "nanorq"]
+	path = nanorq
+	url = https://github.com/sleepybishop/nanorq.git

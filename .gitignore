@@ -1,0 +1,14 @@
+# Build artifacts
+*.o
+*.a
+*.so
+*.so.*
+test_rdma_transport
+
+# Test output
+transport_server*.log
+__pycache__/
+*.py[cod]
+
+# Editor settings
+.vscode/
